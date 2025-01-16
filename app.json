@@ -1,7 +1,7 @@
 {
     "name": "Airflow on Heroku",
     "description": "Airflow on Heroku",
-    "repository": "https://github.com/slyapustin/airflow-on-heroku",
+    "repository": "https://github.com/MackayHeroku/airflow-on-heroku",
     "keywords": [
         "airflow",
         "heroku",
